@@ -1,0 +1,7 @@
+*.swp
+config.h
+dmenu_path
+dmenu_run
+dmenu
+stest
+*.o
